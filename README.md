@@ -9,4 +9,4 @@ I assure you 100% quality standards using best modern technologies."
 ### Find Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/azizk49)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/a_tinypixel)
-[![stackoverflow](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://twitter.com/a_tinypixel)
+[![stackoverflow](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4056660/aziz-kaukawala)
